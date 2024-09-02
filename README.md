@@ -5,3 +5,4 @@
 -Vou colocar neste repositório tudo que pode agregar para meu aprendizado profissional;
 
 -Pretendo anotar neste Readme comandos importantes também.
+:)
