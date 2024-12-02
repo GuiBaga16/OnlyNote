@@ -1,6 +1,6 @@
 # Tecnico Informatica: Manuteção de Software.
 
--Nesta cadeira pretendo aprender como manter um software sobre git e github;
+-Neste repositório pretendo aprender sobre git e github;
 
 -Vou colocar neste repositório tudo que pode agregar para meu aprendizado profissional;
 
