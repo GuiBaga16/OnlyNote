@@ -7,6 +7,7 @@
 -Pretendo anotar neste Readme comandos importantes também.
 :)
 
+<hr>
 
 -Aqui está um tutorial passo a passo para configurar um domínio personalizado no GitHub Pages:
 
